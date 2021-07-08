@@ -20,6 +20,12 @@ const Banner = () => {
                         <p>Github</p>
                     </a>
                 </div>
+                <div class = "ig">
+                    <a href = "https://www.instagram.com/durpy._.banana" target = "_blank">
+                        <img src = {instagram}/>
+                        <p>Instagram</p>
+                    </a>
+                </div>
                 <div class = "link">
                     <a href = "https://www.linkedin.com/in/mostafa-hussein-04" target = "_blank">
                         <img src = {linkedin}/>
@@ -30,12 +36,6 @@ const Banner = () => {
                     <a href = "https://devpost.com/MostafaH04" target = "_blank">
                         <img src = {devpost}/>
                         <p>Devpost</p>  
-                    </a>
-                </div>
-                <div class = "ig">
-                    <a href = "https://www.instagram.com/durpy._.banana" target = "_blank">
-                        <img src = {instagram}/>
-                        <p>Instagram</p>
                     </a>
                 </div>
             </div>
