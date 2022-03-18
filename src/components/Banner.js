@@ -5,18 +5,28 @@ import devpost from './images/dev.png';
 import instagram from './images/ig.png';
 
 const Banner = () => {
+    var items = ['High School Student', 'Developer', 'Engineer'];
+    var item = items[Math.floor(Math.random() * items.length)];
     return (
         <section class = "banner">
-            <img src = {background}/>
+            <section class = "bottomWaves">
+                <div class = "bottom wave1"></div>
+                <div class = "bottom wave2"></div>
+                <div class = "bottom wave3"></div>
+                <div class = "bottom wave4"></div>
+                <div class = "top wave1"></div>
+                <div class = "top wave2"></div>
+                <div class = "top wave3"></div>
+                <div class = "top wave4"></div>
+            </section>
             <div class = "content">
                 <h1>Mostafa Hussein</h1>
-                <h3>High School Student</h3>
+                <h3>{item}</h3>
             </div>
             <div class = "links">
                 <div class = "git">
                     <a href = "https://github.com/MostafaH04" target = "_blank">
                         <img src = {git}/>
-                    
                         <p>Github</p>
                     </a>
                 </div>
@@ -40,10 +50,10 @@ const Banner = () => {
                 </div>
             </div>
             <div class = "nav">
-                <p>About Me</p>
-                <p>Resume</p>
-                <p>Portfolio</p>
-                <p>Contact Me</p>
+                <a href = "#aboutme">About Me</a>
+                <a href = "https://drive.google.com/file/d/1a3I1CHtxwZnfcyMbPvrXwMktkEdkgcpv/view?usp=sharing" target = "_blank">Resume</a>
+                <a href = "#portfolio">Portfolio</a>
+                <a href = "#contact">Contact Me</a>
             </div>
         </section>
     );

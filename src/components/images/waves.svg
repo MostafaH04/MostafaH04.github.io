@@ -1,0 +1,9 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3840 1083" width="3840" height="1083">
+	<title>waves</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #0f3c73 } 
+	</style>
+	<path id="Layer 3" class="shp0" d="M0 380C0 380 828 -540.44 2108 500C3388 1540.44 2500 1132 2500 1132L1052 1244L184 1248L-220 1236L0 1083L0 380ZM2084 482C2084 482 3124 1267.56 4052 156C4980 -955.56 4336 1320 4336 1320L2524 1428L1760 1044" />
+	<path id="Layer 4" class="shp0" d="M2021 432C2021 432 2186.5 555.95 2308 610C2429.5 664.05 2421 674 2421 674L2280 687L2084 593L2001 490" />
+</svg>
