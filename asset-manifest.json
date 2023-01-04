@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c583f92f.chunk.css",
-    "main.js": "/static/js/main.992df473.chunk.js",
-    "main.js.map": "/static/js/main.992df473.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d35a3416.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d35a3416.js.map",
-    "static/js/2.ddd40ea2.chunk.js": "/static/js/2.ddd40ea2.chunk.js",
-    "static/js/2.ddd40ea2.chunk.js.map": "/static/js/2.ddd40ea2.chunk.js.map",
+    "main.css": "/static/css/main.d60af260.css",
+    "main.js": "/static/js/main.dbb9b1d1.js",
+    "static/media/personal.png": "/static/media/personal.7d81a2fb7c98a432bfd2.png",
+    "static/media/SceneryLight.svg": "/static/media/SceneryLight.9f718255f33ca7d2080231f09e42d128.svg",
+    "static/media/Scenery.svg": "/static/media/Scenery.e95d32fa08ac2700e0f8393f9760ca08.svg",
     "index.html": "/index.html",
-    "static/css/main.c583f92f.chunk.css.map": "/static/css/main.c583f92f.chunk.css.map",
-    "static/js/2.ddd40ea2.chunk.js.LICENSE.txt": "/static/js/2.ddd40ea2.chunk.js.LICENSE.txt",
-    "static/media/back.0840afbd.png": "/static/media/back.0840afbd.png",
-    "static/media/goop3.00d89525.svg": "/static/media/goop3.00d89525.svg",
-    "static/media/lines4.7f5ca99b.svg": "/static/media/lines4.7f5ca99b.svg",
-    "static/media/personal.4268152a.png": "/static/media/personal.4268152a.png",
-    "static/media/App.css": "/static/media/waves.2dc68da2.svg"
+    "static/media/bird 9.svg": "/static/media/bird 9.82176bf100aa9c2c2f22c56be3aab17c.svg",
+    "static/media/bird 2.svg": "/static/media/bird 2.88f136cce33389a959ec07f62932a3c4.svg",
+    "static/media/lightMode.svg": "/static/media/lightMode.6654eb45531cd4bf4f5b99d218c11f9e.svg",
+    "static/media/darkMode.svg": "/static/media/darkMode.c9d9759d5fe19b3c5a6e01af8edde18e.svg",
+    "static/media/bird 6.svg": "/static/media/bird 6.a4b9fd315cb02a7a0b3e28c4e1d18ba0.svg",
+    "static/media/Exit.svg": "/static/media/Exit.e22e40f93a312cfab709d1dedf034431.svg",
+    "static/media/Polygon 2.svg": "/static/media/Polygon 2.4c78106d218b2e921dd08ea6e3292b31.svg",
+    "static/media/Polygon 1.svg": "/static/media/Polygon 1.a1023f5ed638fb8f8b7d073d7451f000.svg",
+    "main.d60af260.css.map": "/static/css/main.d60af260.css.map",
+    "main.dbb9b1d1.js.map": "/static/js/main.dbb9b1d1.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d35a3416.js",
-    "static/js/2.ddd40ea2.chunk.js",
-    "static/css/main.c583f92f.chunk.css",
-    "static/js/main.992df473.chunk.js"
+    "static/css/main.d60af260.css",
+    "static/js/main.dbb9b1d1.js"
   ]
 }
